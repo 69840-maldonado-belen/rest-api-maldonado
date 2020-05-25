@@ -1,0 +1,27 @@
+[
+    {
+        "id": "1",
+        "nombre": "Operacion masacre",
+        "autorId": "4"
+    },
+    {
+        "id": "2",
+        "nombre": "Rayuela",
+        "autorId": "1"
+    },
+    {
+        "id": "3",
+        "nombre": "Cuentos de amor, de locura y de muerte",
+        "autorId": "3"
+    },
+    {
+        "id": "4",
+        "nombre": "Sobre heroes y tumbas",
+        "autorId": "2"
+    },
+    {
+        "id": "5",
+        "nombre": "La casa de los espiritus",
+        "autorId": "5"
+    }
+]
